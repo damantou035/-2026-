@@ -24,6 +24,14 @@
     *   技术移民（如蓝卡持有者）随行配偶的**德语A1要求已被取消**。
     *   在特定条件下，不仅配偶和子女，连主申请人的**父母**也可以申请团聚。
 *   **转永居（Niederlassungserlaubnis）时间缩短：** 蓝卡持有者只要德语达到 B1 水平，最快 **21个月** 即可申请德国永久居留（永居）；德语 A2 水平则缩短至 **27个月**。
+  
+<img width="626" height="497" alt="image" src="https://github.com/user-attachments/assets/de64daeb-cfce-4d58-a985-921be339374b" />
+
+（数据解读：根据科隆经济研究所2026年5月的最新报告，即便处于目前的经济周期，德国MINT/IT领域的岗位空缺依然高达13.39万个。由于德国社会老龄化严重、退休人数远超新人，预计到2034年，整个IT和技术市场将面临巨大的“用工荒”断层。）
+
+附上官方链接：
+https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card 
+https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2026/MINT-Frühjahrsreport_2026.pdf 
 
 ---
 
@@ -82,6 +90,7 @@
 2.  **Xing：** 德国本土的“领英”，德企、传统制造业、HR非常活跃。
 3.  **StepStone & Indeed DE：** 德国本土最大的综合招聘搜索引擎。
 4.  **Make it in Germany Job Board：** 德国官方为海外人才设立的求职板。
+5.  **Relocate.me：** 欧洲非常垂直的技术招聘平台。
 
 ---
 
